@@ -1,0 +1,10 @@
+# Ignore build directories
+/target/
+ 
+# Ignore Maven cache
+/mvn/
+ 
+# Ignore IDE settings
+.settings/
+.classpath
+.project
